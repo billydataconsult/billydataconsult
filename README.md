@@ -23,8 +23,8 @@ Principais Habilidades
 
 ## 📊 Analises GitHub
 <div>
-  <a href="https://github.com/billyanalytics">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=billyanalytics&theme=radical&mode=weekly" />
+  <a href="https://github.com/billydataconsult">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=billydataconsult&theme=radical&mode=weekly" />
  
 <div> 
 
