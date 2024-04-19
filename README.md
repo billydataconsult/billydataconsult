@@ -10,7 +10,7 @@ Principais Habilidades
 
     Linguagens de Programação: Python, SQL
     Bancos de Dados: MySQL, PostgreSQL
-    Análise de Dados: Pandas
+    Análise de Dados: Pandas, Numpy, Matplotlib, Seaborn, Plotly
     Machine Learning: 
     Ferramentas de Visualização: Tableau, Power BI
     Outras Ferramentas: Git, Jupyter Notebook, Debeaver
